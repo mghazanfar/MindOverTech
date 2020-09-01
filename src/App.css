@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "SplitSerifRegular";
+  src: local("MyFont"), url(./fonts/FSSplitSerifWeb-Regular.woff) format("woff");
+}
